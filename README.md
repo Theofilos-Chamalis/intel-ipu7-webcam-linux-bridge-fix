@@ -36,8 +36,8 @@ This repository automates the creation of a "Virtual Webcam" on your system. It 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/intel-ipu-webcam-linux-bridge.git](https://github.com/YOUR_USERNAME/intel-ipu-webcam-linux-bridge.git)
-   cd intel-ipu-webcam-linux-bridge
+   git clone https://github.com/Theofilos-Chamalis/intel-ipu7-webcam-linux-bridge-fix
+   cd intel-ipu7-webcam-linux-bridge-fix
    ```
 2. Run the installer script. (Do NOT run this with `sudo`! The script will ask for your password automatically when it needs it):
    ```bash
